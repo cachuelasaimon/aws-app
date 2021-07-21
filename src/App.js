@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Wassap get AWS now</h1>
+      <h1>Version 2 baby :rocket:</h1>
     </div>
   );
 }
